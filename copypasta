@@ -25,4 +25,7 @@
   Tran-*
   Code transformation
   Translate to n*m matrix of pixels on screen.
+  Driver
+  Video card
+  Hardware guy doing all the software work. Firmware Software Hardware.
 **/
