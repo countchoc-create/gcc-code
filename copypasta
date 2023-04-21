@@ -24,4 +24,5 @@
   
   Tran-*
   Code transformation
+  Translate to n*m matrix of pixels on screen.
 **/
