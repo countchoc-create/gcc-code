@@ -1,0 +1,183 @@
+Revision 2025/06/21
+
+WEI LUANG CHIN
+Software Professional
+Software *
+Computer Scientist
+Mathematician (Visualizations)
+STEM Science Technology Engineering Mathematics
+Languages and Linguistics
+Compilers and Interpreters
+Compilation and Interpretation
+Theory and Practice
+Application and Systems
+Programmability
+Requirements and Specifications
+Software Development Life Cycle and Pipelining
+Hacking and Cracking
+
+
+Work Experience
+
+Software Professional
+Software Engineer
+Everett, MA
+April 2022 to Present
+
+Computing, Whitepapers, Proof of Concepts, Papers, Paperwork, Investment, Financial, Stock Market, Software Engineering, Software *, Computerization, Algorithms, Data Structures
+Prototyping, CICD development, deployment, with Docker desktop, docker hub, Docker Compose, awesome-compose, Docker Swarm, docker images, Dockerfile, compose.yml, docker containers, Kubernetes, Spring Boot Starters, Spring Initializr, Gradle, maven, Cloud, VM imaging, AWS, EC2, S3, Azure, REST, SOAP, Javascript, nodejs, MV*, json, HATEOAS, React, Python, django, SQL, Spring Batch, Git, github, NoSQL, Apache, Spring Microservices, SAGA, swagger, Python, Cython, CPython, Jython, Django, Django Pagination, AI ML, Py*, WSL, Virtualization, Virtual Machines, Operating Systems, Recommender, Recommender system/Recommendation Engine,  Artificial Intelligence, Machine Learning, Statistical Inference, Linear Regression, Regularization, SVD, PCA, SVM, Linear Algebra, Tikhonov Regularization, Apache Mahout, Matrix, Matrices, Models, Diagrams, MDE, Model Driven Engineering, OMG, Object Management Group, MITRE, FFRDC, OPM, Legitimate, Legit, Legitimate, Real, Reality, Mathematics, Applied and Pure, Physics, Chemistry, Biology, beyond. SOLID, Architecture, Signals and Systems, Control, Control Theory, Control Systems, Mission Control, Joint STARS, Management, Software Management, Tech Lead, Technology, Psy*, Psych*, Financial, Numbers, Metrics, Quality, Quantity, R&D, Work, Play, Work, Learning, Films, Media, Stubs, Wikipedia, Progress/Progressive, Reporting, Intelligence Gathering, Food, Preparation, Planning, Agile, information dumping, text dumping, writing, Separation of Concerns, Specialist, Generalist, Dependency Injection, Requirements and Dependencies, Monoliths, Microservices, Monolithic Microservices, Micro-monoliths, Exploration, Review, Keeping Up, On the job training, Staying up to date with the latest technologies, TIOBE, Computational Complexity, Complexity, Static Analysis, Dynamic Analysis, Education, School, University, Research, ThinkTanks, Creation, Creativity, Abbreviated, Acronym Creation, Abbreviation, Marketing, Sales, Marketing Lifecycle, * Lifecycles, Computer, Computer Work, Computation, Computability, Compute, Calculation, Calculus, Calculi, Curve fitting, 
+
+
+Technology Lead/Analyst
+Infosys Citizens Bank - Johnston, RI
+October 2021 to April 2022
+
+
+IBM FileNet P8: Streamline and automate business processes, access and manage all forms of content, and automate records management to help meet compliance needs. 
+
+
+Back-end services, development tools, and applications that address enterprise content and process management requirements (BPM).
+
+
+Platform: Provide baseline components for enterprise content management solutions (ECM). 
+
+
+Software Engineer
+Norwood, MA
+January 2016 to October 2021
+
+
+LocalRandom: Project to create local topics for people that might be interested via mobile. Inspired by imageboards and mobile dating applications. Utilizing Ionic Framework cross-platform for hybrid mobile app development. Login via JSON web tokens and OAuth.
+
+
+ImgClickr: A image based social media application for user generated content and linking via images. Inspired by imageboard software. Custom template for resizing images based on browser window size.
+
+
+Lovexhate: Most upvoted and most downvoted. Similar to reddit except there is also emphasis on the most downvoted stories. Parallel upvoted and downvoted UI interface converging on 0 voted.
+
+
+Software Engineer
+Broadridge Direxxis - Needham, MA
+March 2015 to January 2016
+
+
+dmEdge Application: Operations support for client and batch applications for dmEdge4 and dmEdge5 built with Java, Spring, JavaScript, knockout.js, angular.js, react.js, JSX, iBatis, SQL Server, Tomcat, SVN, Jenkins, git, Apache, nginx, NetApp, velocity templates. Resolved over 150 tickets involving configuration, operations, service requests and development tasks. 
+
+
+Completed tasks included reference implementation versioning support, portal configuration, production issue diagnosis, batch application support, data migration, debugging and fixing JavaScript UI issues. Worked with senior programmers and business systems analysts to resolve issues as part of the platform configuration/operations team.
+
+
+Maintenance and Deployment: Performed after hours maintenance tasks e.g. file migration, configuration changes, and critical bug fixes during scheduled and on-call maintenance windows.
+
+
+Software Engineer
+Cambridge, MA
+January 2014 to March 2015
+
+
+Interviewed for jobs with local tech companies. Moved to a different town. Prototyping software and brushing up on industry changes. Interviewed with many companies in the Boston, Cambridge area and then moved and interviewed with companies in the Norwood, Greater Boston area.
+
+
+Software Engineer (Consultant)
+Intralinks - Boston, MA
+October 2013 to January 2014
+
+
+VIA: Development on Intralinks VIA software platform using Java, Spring, Javascript, Database, Hibernate, JPA. Automatic build and deploy. VIA is a secure file storage system for handling M&A for financial services corporations.
+
+
+Scrum Sprints: Attend Scrum meetings and planning poker for sprints.
+
+
+Software Engineer
+IBM Coremetrics - Waltham, MA
+January 2013 to October 2013
+
+
+L3 Escalation: As part of the L3 escalation team, fixed approximately 70 customer reported defect and feature tickets for the Coremetrics, acquired as IBM Digital Analytics, platform and applications built with technology such as Java, Hibernate, Spring, Oracle, JBoss, SVN, Maven. 
+
+
+IBM Coremetrics mainly competes with products such Adobe Omniture and Google Analytics.
+
+
+LiveMail: Provided primary support coverage for LiveMail product to resolve product defects and enhancements. Respond to L1 and L2 support representatives to provide timely response for customers. Collaborated across multiple teams (Support, Development, Operations, QA, SoftServe overseas team) in different time zones. Worked with different team members directly and remotely to achieve 90% defect closure rate and feature completion rate.
+
+
+Digital Business Analytics Software Components: Worked on customer defects and features from core applications Orion report-scheduler, ESB, bootstrap DB, Export, Adtarget, Analytics, and Explore. Conducted code review using Review Board software for all developed features, and wrote unit tests with at least 90% code coverage using JUnit.
+
+
+Data Warehouse: Provided support for implemented data warehousing and various architectures for multi dimensional business intelligence.
+
+
+Software Maintenance: Configured JBoss-deployed applications and automation scripts for deployment on Linux and Windows environments.
+
+
+Software Engineer (Consultant)
+TopCo Nuval LLC - Quincy, MA
+February 2012 to January 2013
+
+
+NuVal: Development for a nutritional rating system based on overall nutritional quality index (ONQI) using scanned nutritional facts panels and an in-house iOS app with scoring based on statistical imputations developed by Yale-Griffin Prevention Research Center. Worked on the system which later included attribute management.
+
+
+Attribute Management System: Developed internal software using JQuery, Java, Spring, Hibernate, MySQL. Features written include drag & drop lists using JQuery UI. Developed additional features such as attribute customizations which are stored and modified on-the-fly, attribute changes monthly report generator, and XML generator.
+
+
+Statistics Data ETL: Developed JSP forms and templates and components to ingest data to SQL database using Hibernate Reverse Engineering. Integrated and enabled feed data visualization with Rico JavaScript grid library.
+
+
+Software Systems Engineer
+MITRE - Bedford, MA
+June 2011 to February 2012
+
+
+Aircraft Mission Systems Modernization: Delivered prototypes using enterprise service bus (ESB) to provide network integration on the Northrop Grumman E-8 Joint Surveillance Target Attack Radar System (Joint STARS) aircraft system using Mule ESB, Java, C, DEC VMS. Documented C/C++, FORTRAN legacy process behavior and software build processes. Performed network integration with the Force XXI Battle Command Brigade and Below (FBCB2) communication platform. Evaluated software process and operating system virtualization scenarios on vSphere server using Wireshark.
+
+
+Python: Programmed Python CLI tool to support Automated signal recognition of software defined radios. Fourier and wavelet analysis. Spread spectrum.
+
+
+Hardware Collaboration: FPGA, HDL, Kalman filtering. Family of Advanced Beyond Line-of-Sight Terminals 
+(FAB-T).
+
+
+Cryptography: Books for reading include Cryptography and Network Security: Principles and Practice by Stallings
+Applied Cryptography by Schneier
+
+
+Corporate HR Application: Worked on open source Apache Rave framework to develop internal corporate HR web application using Java and Spring dependencies. Implemented XML/JSON APIs for SOAP web services and REST application integration. Implemented server-side logic for business objects and validation and provided unit testing using JUnit. Domain driven design implemented with Java Spring stack of technologies. Data model using neo4j graph database 
+
+
+Software Engineer (Intern)
+IBM Lotus - Littleton, MA
+May 2010 to September 2010
+
+
+IBM Systems Workload Estimator: As a member of the IBM Lotus performance team, developed plugins for IBM Systems Workload Estimator to provide hardware sizing and capacity planning for sales representatives using BASIC. Added support for latest versions of Lotus Quickr Domino/J2EE, WebSphere Portal, and Sametime Gateway. Worked closely with sales representatives to understand software load parameters and usage requirements.
+
+
+Load Testing: Use tools such as Mercury Loadrunner to perform load and response time testing and performance tuning to optimize transactions per second (TPS), Xperf, traffic shaping metrics.
+
+
+Tech Director
+WMUA 91.1FM - Amherst, MA
+June 2008 to May 2010
+Site and web-application: Built PHP web application for program schedule planning, rich text content management, and a recording library catalog using CakePHP and MySQL.
+
+
+Upgrade IT infrastructure: Commissioned a Linux Apache MySQL PHP (LAMP) server stack to be deployed to move off 3rd party host and stream live radio content over the internet with WinAMP ShoutCast server, configured and set up automation and Redmine issue-tracking software.
+
+
+Education
+
+Harvard University - Veritas - Truth
+
+MIT - OpenCourseWare - Mens et Manus - Mind and Hand
+
+M.S. Courses in Computer Science
+Boston University - Boston, MA
+September 2011 to May 2012
+
+B.S. in Computer Science
+University of Massachusetts - Amherst, MA
+September 2007 to May 2011
